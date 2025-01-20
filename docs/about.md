@@ -1,5 +1,2 @@
 ## zhy
-sadjifoaj
-jdafsio
-
-dfsajoij
+这是一个学习记录的项目
